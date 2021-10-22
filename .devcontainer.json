@@ -1,0 +1,10 @@
+{
+    "dockerFile": "DockerFile",
+    "workspaceMount": "source=${localWorkspaceFolder}/src,target=/root/project,type=bind,consistency=cached",
+    "workspaceFolder": "/root/project",
+    "shutdownAction": "stopContainer",
+    "extensions": [
+        "swellaby.rust-pack"
+    ],
+    "settings": {}
+}
