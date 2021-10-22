@@ -4,7 +4,8 @@
     "workspaceFolder": "/root/project",
     "shutdownAction": "stopContainer",
     "extensions": [
-        "swellaby.rust-pack"
+        "swellaby.rust-pack",
+        "bmalehorn.vscode-fish"
     ],
     "settings": {}
 }
